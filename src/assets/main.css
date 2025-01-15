@@ -1,0 +1,12 @@
+html body {
+  font-family: "Montserrat", serif !important;
+  background-color: rgb(15, 17, 17);
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: inherit !important;
+}
